@@ -9,7 +9,7 @@ import java.net.URL;
 public class ZillizApiTest {
 
     public static void main(String[] args) {
-        String apiKey = "84902ffa40a1d00e46d8a4a3ed4949608429379ae58b980a761ed10b636e09055d0386cf259a6e3781220e4f07454481c2e0b6c5";
+        String apiKey = "";
         String urlString = "https://in03-b599fcdc06c6cf4.serverless.gcp-us-west1.cloud.zilliz.com/v2/vectordb/collections/list";
 
         try {
